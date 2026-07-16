@@ -25,7 +25,7 @@ spec:
       containers:
         - name: flask
 
-          image: sujith0227/gitops-flask-app:v1.0.0
+          image: sujith0227/gitops-flask-app:6
 
           imagePullPolicy: Always
 
